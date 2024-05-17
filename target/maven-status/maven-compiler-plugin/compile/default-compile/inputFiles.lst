@@ -1,0 +1,13 @@
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\service\model\User.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\dao\DaoImplJPA.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\presentation\controller\LogoutServlet.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\presentation\filter\AuthFilter.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\dao\DatabaseManager.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\presentation\controller\ArticleServlet.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\service\IService.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\dao\article\IArticleDao.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\dao\IDao.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\service\ServiceImpl.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\dao\article\ArticleDaoImplJPA.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\presentation\controller\AuthenticationServlet.java
+D:\ECLIPSE\Controle\src\main\java\ma\formations\jpa\service\model\Article.java
